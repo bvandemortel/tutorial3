@@ -1,3 +1,9 @@
 my answers
 
+<<<<<<< HEAD
 here are some changes
+=======
+just for practice, here are some of my answers.
+
+this time with the right commit message
+>>>>>>> a0f35809d39beca1693e7b42d7d0e2e81da18d96
